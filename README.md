@@ -16,3 +16,6 @@ piyhonも触ってみたいと思いましたのでブログを作成しまし�
 
 ## 参照  
 Udemyにて動画学習を行いました。
+
+## 画像
+<img width="1100" alt="スクリーンショット 2020-06-12 22 13 44" src="https://user-images.githubusercontent.com/56381794/84506312-26254680-acfa-11ea-9229-7c70c3ee52d6.png">
